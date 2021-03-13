@@ -1,0 +1,57 @@
+#import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap'); 
+.
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	position: relative;
+	font-family: 'Poppins' sans-serif;
+}
+.jumbotron {
+	padding-top: 10rem;
+	background-color: #8A2BE2;
+
+}
+
+#projects {
+	padding-top:4rem;
+	background-color: #8A2BE2;
+}
+
+#info {
+	padding-top: 5rem;
+	background-color: #4B0082;
+}
+#about {
+	padding-top: 5rem;
+	background-color: #4B0082;
+}
+
+#skill {
+	padding-top: 4rem;
+	background-color: #4B0082;
+}
+
+#contact {
+	padding-top: 5rem;
+	background-color: #8A2BE2;
+}
+
+hr.onepixel {
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    height: 0px;
+    margin-bottom: 20px;
+}
+
+section {
+	padding-top: 5rem;
+}
+
+.hu__hu__ { animation: hu__hu__ infinite 2s ease-in-out }
+@keyframes hu__hu__ {
+    50% { transform: translateY(30px) }
+}
+
+
+
